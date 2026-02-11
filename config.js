@@ -32,14 +32,7 @@ const CONFIG = {
             yesBtn: "YES !",                                             // Text for "Yes" button
             noBtn: "NO🥹"                                                 // Text for "No" button
         }
-    },
-
-    // Love meter messages
-    // They show up depending on how far they slide the meter
-    loveMessages: {
-        extreme: "Ohhh wirklich?! sub2:50?? 🥰🚀🩵",  // Shows when they go past 5000%
-        high: "sub3! 🚀🩵",              // Shows when they go past 1000%
-        normal: "sub4 🥰"                           // Shows when they go past 100%
+        
     },
 
     // Messages that appear after they say "Yes!"
